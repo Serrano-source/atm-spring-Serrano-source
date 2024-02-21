@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/VgXyX-GI)
 # ATM-Project
 Projecte Spring per simular un caixer autommàtic (ATM)
@@ -49,4 +48,3 @@ Desenvolupar una aplicació que simuli un caixer automàtic (ATM) d’un banc.
 - Ús de col·leccions d’objectes (ArrayList o equivalents) per a la gestió de les llistes d’objectes en memòria
 =======
 # atm-spring-Serrano-source
->>>>>>> 2f74fb01ae55a10aa80e45eb89d4be21e234c950
